@@ -1076,7 +1076,7 @@
         },
         {
           "mutual" : true,
-          "teamA" : “Cincinnati",
+          "teamA" : "Cincinnati",
           "teamB" : "Louisville"
         },
         {
@@ -2118,7 +2118,7 @@
         {
           "mutual" : true,
           "teamA" : "Georgia Southern",
-          "teamB" : “Georgia State"
+          "teamB" : "Georgia State"
         },
         {
           "mutual" : true,
@@ -2439,698 +2439,698 @@
     },
     {
       "mutual" : true,
-      "teamA" : “North Carolina",
+      "teamA" : "North Carolina",
       "teamB" : "Virginia"
     },
     {
       "mutual" : true,
-      "teamA" : “Virginia",
+      "teamA" : "Virginia",
       "teamB" : "Virginia Tech"
     },
     {
       "mutual" : true,
-      "teamA" : “Colorado",
+      "teamA" : "Colorado",
       "teamB" : "Colorado State"
     },
     {
       "mutual" : true,
-      "teamA" : “Colorado",
+      "teamA" : "Colorado",
       "teamB" : "Nebraska"
     },
     {
       "mutual" : true,
-      "teamA" : “Colorado",
+      "teamA" : "Colorado",
       "teamB" : "Utah"
     },
     {
       "mutual" : true,
-      "teamA" : “Iowa State",
+      "teamA" : "Iowa State",
       "teamB" : "Iowa"
     },
     {
       "mutual" : true,
-      "teamA" : “Iowa State",
+      "teamA" : "Iowa State",
       "teamB" : "Kansas State"
     },
     {
       "mutual" : true,
-      "teamA" : “Kansas",
+      "teamA" : "Kansas",
       "teamB" : "Kansas State"
     },
     {
       "mutual" : true,
-      "teamA" : “Kansas",
-      "teamB" : “Missouri"
+      "teamA" : "Kansas",
+      "teamB" : "Missouri"
     },
     {
       "mutual" : true,
-      "teamA" : “Nebraska",
-      "teamB" : “Oklahoma"
+      "teamA" : "Nebraska",
+      "teamB" : "Oklahoma"
     },
     {
       "mutual" : true,
-      "teamA" : “Nebraska",
-      "teamB" : “Iowa"
+      "teamA" : "Nebraska",
+      "teamB" : "Iowa"
     },
     {
       "mutual" : true,
-      "teamA" : “Oklahoma",
-      "teamB" : “Oklahoma State"
+      "teamA" : "Oklahoma",
+      "teamB" : "Oklahoma State"
     },
     {
       "mutual" : true,
-      "teamA" : “Oklahoma",
-      "teamB" : “Texas"
+      "teamA" : "Oklahoma",
+      "teamB" : "Texas"
     },
     {
       "mutual" : true,
-      "teamA" : “Oklahoma State",
-      "teamB" : “Tulsa"
+      "teamA" : "Oklahoma State",
+      "teamB" : "Tulsa"
     },
     {
       "mutual" : true,
-      "teamA" : “Illinois",
-      "teamB" : “Northwestern"
+      "teamA" : "Illinois",
+      "teamB" : "Northwestern"
     },
     {
       "mutual" : true,
-      "teamA" : “Illinois",
-      "teamB" : “Ohio State"
+      "teamA" : "Illinois",
+      "teamB" : "Ohio State"
     },
     {
       "mutual" : true,
-      "teamA" : “Illinois",
-      "teamB" : “Purdue"
+      "teamA" : "Illinois",
+      "teamB" : "Purdue"
     },
     {
       "mutual" : true,
-      "teamA" : “Indiana",
-      "teamB" : “Purdue"
+      "teamA" : "Indiana",
+      "teamB" : "Purdue"
     },
     {
       "mutual" : true,
-      "teamA" : “Iowa",
-      "teamB" : “Wisconsin"
+      "teamA" : "Iowa",
+      "teamB" : "Wisconsin"
     },
     {
       "mutual" : true,
-      "teamA" : “Iowa",
-      "teamB" : “Minnesota"
+      "teamA" : "Iowa",
+      "teamB" : "Minnesota"
     },
     {
       "mutual" : true,
-      "teamA" : “Michigan",
-      "teamB" : “Michigan State"
+      "teamA" : "Michigan",
+      "teamB" : "Michigan State"
     },
     {
       "mutual" : true,
-      "teamA" : “Michigan",
-      "teamB" : “Ohio State"
+      "teamA" : "Michigan",
+      "teamB" : "Ohio State"
     },
     {
       "mutual" : true,
-      "teamA" : “Michigan",
-      "teamB" : “Notre Dame"
+      "teamA" : "Michigan",
+      "teamB" : "Notre Dame"
     },
     {
       "mutual" : true,
-      "teamA" : “Michigan State",
-      "teamB" : “Notre Dame"
+      "teamA" : "Michigan State",
+      "teamB" : "Notre Dame"
     },
     {
       "mutual" : true,
-      "teamA" : “Minnesota",
-      "teamB" : “Wisconsin"
+      "teamA" : "Minnesota",
+      "teamB" : "Wisconsin"
     },
     {
       "mutual" : true,
-      "teamA" : “Ohio State",
-      "teamB" : “Penn State"
+      "teamA" : "Ohio State",
+      "teamB" : "Penn State"
     },
     {
       "mutual" : true,
-      "teamA" : “Arizona",
-      "teamB" : “Arizona State"
+      "teamA" : "Arizona",
+      "teamB" : "Arizona State"
     },
     {
       "mutual" : true,
-      "teamA" : “California",
-      "teamB" : “Stanford"
+      "teamA" : "California",
+      "teamB" : "Stanford"
     },
     {
       "mutual" : true,
-      "teamA" : “California",
-      "teamB" : “UCLA"
+      "teamA" : "California",
+      "teamB" : "UCLA"
     },
     {
       "mutual" : true,
-      "teamA" : “Oregon",
-      "teamB" : “Oregon State"
+      "teamA" : "Oregon",
+      "teamB" : "Oregon State"
     },
     {
       "mutual" : true,
-      "teamA" : “Oregon",
-      "teamB" : “Washington"
+      "teamA" : "Oregon",
+      "teamB" : "Washington"
     },
     {
       "mutual" : true,
-      "teamA" : “Stanford",
-      "teamB" : “USC"
+      "teamA" : "Stanford",
+      "teamB" : "USC"
     },
     {
       "mutual" : true,
-      "teamA" : “Stanford",
-      "teamB" : “Notre Dame"
+      "teamA" : "Stanford",
+      "teamB" : "Notre Dame"
     },
     {
       "mutual" : true,
-      "teamA" : “UCLA",
-      "teamB" : “USC"
+      "teamA" : "UCLA",
+      "teamB" : "USC"
     },
     {
       "mutual" : true,
-      "teamA" : “USC",
-      "teamB" : “Notre Dame"
+      "teamA" : "USC",
+      "teamB" : "Notre Dame"
     },
     {
       "mutual" : true,
-      "teamA" : “Washington",
-      "teamB" : “Washington State"
+      "teamA" : "Washington",
+      "teamB" : "Washington State"
     },
     {
       "mutual" : true,
-      "teamA" : “Alabama",
-      "teamB" : “Auburn"
+      "teamA" : "Alabama",
+      "teamB" : "Auburn"
     },
     {
       "mutual" : true,
-      "teamA" : “Alabama",
-      "teamB" : “Tennessee"
+      "teamA" : "Alabama",
+      "teamB" : "Tennessee"
     },
     {
       "mutual" : true,
-      "teamA" : “Alabama",
-      "teamB" : “LSU"
+      "teamA" : "Alabama",
+      "teamB" : "LSU"
     },
     {
       "mutual" : true,
-      "teamA" : “Alabama",
-      "teamB" : “Mississippi State"
+      "teamA" : "Alabama",
+      "teamB" : "Mississippi State"
     },
     {
       "mutual" : true,
-      "teamA" : “Auburn",
-      "teamB" : “Georgia"
+      "teamA" : "Auburn",
+      "teamB" : "Georgia"
     },
     {
       "mutual" : true,
-      "teamA" : “Auburn",
-      "teamB" : “LSU"
+      "teamA" : "Auburn",
+      "teamB" : "LSU"
     },
     {
       "mutual" : true,
-      "teamA" : “Florida",
-      "teamB" : “Georgia"
+      "teamA" : "Florida",
+      "teamB" : "Georgia"
     },
     {
       "mutual" : true,
-      "teamA" : “Florida",
-      "teamB" : “Tennessee"
+      "teamA" : "Florida",
+      "teamB" : "Tennessee"
     },
     {
       "mutual" : true,
-      "teamA" : “Florida",
-      "teamB" : “LSU"
+      "teamA" : "Florida",
+      "teamB" : "LSU"
     },
     {
       "mutual" : true,
-      "teamA" : “Florida",
-      "teamB" : “Kentucky"
+      "teamA" : "Florida",
+      "teamB" : "Kentucky"
     },
     {
       "mutual" : true,
-      "teamA" : “Georgia",
-      "teamB" : “Georgia Tech"
+      "teamA" : "Georgia",
+      "teamB" : "Georgia Tech"
     },
     {
       "mutual" : true,
-      "teamA" : “Georgia",
-      "teamB" : “Tennessee"
+      "teamA" : "Georgia",
+      "teamB" : "Tennessee"
     },
     {
       "mutual" : true,
-      "teamA" : “Georgia",
-      "teamB" : “South Carolina"
+      "teamA" : "Georgia",
+      "teamB" : "South Carolina"
     },
     {
       "mutual" : true,
-      "teamA" : “Georgia Tech",
-      "teamB" : “Virginia Tech"
+      "teamA" : "Georgia Tech",
+      "teamB" : "Virginia Tech"
     },
     {
       "mutual" : true,
-      "teamA" : “Kentucky",
-      "teamB" : “Louisville"
+      "teamA" : "Kentucky",
+      "teamB" : "Louisville"
     },
     {
       "mutual" : true,
-      "teamA" : “Kentucky",
-      "teamB" : “Tennessee"
+      "teamA" : "Kentucky",
+      "teamB" : "Tennessee"
     },
     {
       "mutual" : true,
-      "teamA" : “LSU",
-      "teamB" : “Ole Miss"
+      "teamA" : "LSU",
+      "teamB" : "Ole Miss"
     },
     {
       "mutual" : true,
-      "teamA" : “LSU",
-      "teamB" : “Arkansas"
+      "teamA" : "LSU",
+      "teamB" : "Arkansas"
     },
     {
       "mutual" : true,
-      "teamA" : “Mississippi State",
-      "teamB" : “Ole Miss"
+      "teamA" : "Mississippi State",
+      "teamB" : "Ole Miss"
     },
     {
       "mutual" : true,
-      "teamA" : “Tennessee",
-      "teamB" : “Vanderbilt"
+      "teamA" : "Tennessee",
+      "teamB" : "Vanderbilt"
     },
     {
       "mutual" : true,
-      "teamA" : “Arkansas",
-      "teamB" : “Texas A&M"
+      "teamA" : "Arkansas",
+      "teamB" : "Texas A&M"
     },
     {
       "mutual" : true,
-      "teamA" : “Arkansas",
-      "teamB" : “Texas"
+      "teamA" : "Arkansas",
+      "teamB" : "Texas"
     },
     {
       "mutual" : true,
-      "teamA" : “Baylor",
-      "teamB" : “Texas Tech"
+      "teamA" : "Baylor",
+      "teamB" : "Texas Tech"
     },
     {
       "mutual" : true,
-      "teamA" : “Baylor",
-      "teamB" : “TCU"
+      "teamA" : "Baylor",
+      "teamB" : "TCU"
     },
     {
       "mutual" : true,
-      "teamA" : “Houston",
-      "teamB" : “Rice"
+      "teamA" : "Houston",
+      "teamB" : "Rice"
     },
     {
       "mutual" : true,
-      "teamA" : “Houston",
-      "teamB" : “SMU"
+      "teamA" : "Houston",
+      "teamB" : "SMU"
     },
     {
       "mutual" : true,
-      "teamA" : “SMU",
-      "teamB" : “TCU"
+      "teamA" : "SMU",
+      "teamB" : "TCU"
     },
     {
       "mutual" : true,
-      "teamA" : “SMU",
-      "teamB" : “North Texas"
+      "teamA" : "SMU",
+      "teamB" : "North Texas"
     },
     {
       "mutual" : true,
-      "teamA" : “TCU",
-      "teamB" : “Texas Tech"
+      "teamA" : "TCU",
+      "teamB" : "Texas Tech"
     },
     {
       "mutual" : true,
-      "teamA" : “Texas",
-      "teamB" : “Texas A&M"
+      "teamA" : "Texas",
+      "teamB" : "Texas A&M"
     },
     {
       "mutual" : true,
-      "teamA" : “Boston College",
-      "teamB" : “Notre Dame"
+      "teamA" : "Boston College",
+      "teamB" : "Notre Dame"
     },
     {
       "mutual" : true,
-      "teamA" : “Boston College",
-      "teamB" : “Syracuse"
+      "teamA" : "Boston College",
+      "teamB" : "Syracuse"
     },
     {
       "mutual" : true,
-      "teamA" : “Cincinnati",
-      "teamB" : “Louisville"
+      "teamA" : "Cincinnati",
+      "teamB" : "Louisville"
     },
     {
       "mutual" : true,
-      "teamA" : “Cincinnati",
-      "teamB" : “Miami (OH)"
+      "teamA" : "Cincinnati",
+      "teamB" : "Miami (OH)"
     },
     {
       "mutual" : true,
-      "teamA" : “Cincinnati",
-      "teamB" : “Memphis"
+      "teamA" : "Cincinnati",
+      "teamB" : "Memphis"
     },
     {
       "mutual" : true,
-      "teamA" : “Penn State",
-      "teamB" : “Pitt"
+      "teamA" : "Penn State",
+      "teamB" : "Pitt"
     },
     {
       "mutual" : true,
-      "teamA" : “Penn State",
-      "teamB" : “Temple"
+      "teamA" : "Penn State",
+      "teamB" : "Temple"
     },
     {
       "mutual" : true,
-      "teamA" : “Pitt",
-      "teamB" : “West Virginia"
+      "teamA" : "Pitt",
+      "teamB" : "West Virginia"
     },
     {
       "mutual" : true,
-      "teamA" : “Pitt",
-      "teamB" : “Syracuse"
+      "teamA" : "Pitt",
+      "teamB" : "Syracuse"
     },
     {
       "mutual" : true,
-      "teamA" : “Rutgers",
-      "teamB" : “Syracuse"
+      "teamA" : "Rutgers",
+      "teamB" : "Syracuse"
     },
     {
       "mutual" : true,
-      "teamA" : “Rutgers",
-      "teamB" : “UConn"
+      "teamA" : "Rutgers",
+      "teamB" : "UConn"
     },
     {
       "mutual" : true,
-      "teamA" : “UConn",
-      "teamB" : “UMass"
+      "teamA" : "UConn",
+      "teamB" : "UMass"
     },
     {
       "mutual" : true,
-      "teamA" : “Virginia Tech",
-      "teamB" : “West Virginia"
+      "teamA" : "Virginia Tech",
+      "teamB" : "West Virginia"
     },
     {
       "mutual" : true,
-      "teamA" : “West Virginia",
-      "teamB" : “Marshall"
+      "teamA" : "West Virginia",
+      "teamB" : "Marshall"
     },
     {
       "mutual" : true,
-      "teamA" : “Appalachian State",
-      "teamB" : “Georgia Southern"
+      "teamA" : "Appalachian State",
+      "teamB" : "Georgia Southern"
     },
     {
       "mutual" : true,
-      "teamA" : “East Carolina",
-      "teamB" : “Southern Miss"
+      "teamA" : "East Carolina",
+      "teamB" : "Southern Miss"
     },
     {
       "mutual" : true,
-      "teamA" : “East Carolina",
-      "teamB" : “Marshall"
+      "teamA" : "East Carolina",
+      "teamB" : "Marshall"
     },
     {
       "mutual" : true,
-      "teamA" : “James Madison",
-      "teamB" : “Old Dominion"
+      "teamA" : "James Madison",
+      "teamB" : "Old Dominion"
     },
     {
       "mutual" : true,
-      "teamA" : “Liberty",
-      "teamB" : “Old Dominion"
+      "teamA" : "Liberty",
+      "teamB" : "Old Dominion"
     },
     {
       "mutual" : true,
-      "teamA" : “Marshall",
-      "teamB" : “Ohio"
+      "teamA" : "Marshall",
+      "teamB" : "Ohio"
     },
     {
       "mutual" : true,
-      "teamA" : “Memphis",
-      "teamB" : “Southern Miss"
+      "teamA" : "Memphis",
+      "teamB" : "Southern Miss"
     },
     {
       "mutual" : true,
-      "teamA" : “Memphis",
-      "teamB" : “UAB"
+      "teamA" : "Memphis",
+      "teamB" : "UAB"
     },
     {
       "mutual" : true,
-      "teamA" : “Memphis",
-      "teamB" : “Arkansas State"
+      "teamA" : "Memphis",
+      "teamB" : "Arkansas State"
     },
     {
       "mutual" : true,
-      "teamA" : “South Florida",
-      "teamB" : “UCF"
+      "teamA" : "South Florida",
+      "teamB" : "UCF"
     },
     {
       "mutual" : true,
-      "teamA" : “Southern Miss",
-      "teamB" : “Louisiana Tech"
+      "teamA" : "Southern Miss",
+      "teamB" : "Louisiana Tech"
     },
     {
       "mutual" : true,
-      "teamA" : “Southern Miss",
-      "teamB" : “UAB"
+      "teamA" : "Southern Miss",
+      "teamB" : "UAB"
     },
     {
       "mutual" : true,
-      "teamA" : “Akron",
-      "teamB" : “Kent State"
+      "teamA" : "Akron",
+      "teamB" : "Kent State"
     },
     {
       "mutual" : true,
-      "teamA" : “Ball State",
-      "teamB" : “Northern Illinois"
+      "teamA" : "Ball State",
+      "teamB" : "Northern Illinois"
     },
     {
       "mutual" : true,
-      "teamA" : “Ball State",
-      "teamB" : “Miami (OH)"
+      "teamA" : "Ball State",
+      "teamB" : "Miami (OH)"
     },
     {
       "mutual" : true,
-      "teamA" : “Ball State",
-      "teamB" : “Miami (OH)"
+      "teamA" : "Ball State",
+      "teamB" : "Miami (OH)"
     },
     {
       "mutual" : true,
-      "teamA" : “Bowling Green",
-      "teamB" : “Toledo"
+      "teamA" : "Bowling Green",
+      "teamB" : "Toledo"
     },
     {
       "mutual" : true,
-      "teamA" : “Buffalo",
-      "teamB" : “Ohio"
+      "teamA" : "Buffalo",
+      "teamB" : "Ohio"
     },
     {
       "mutual" : true,
-      "teamA" : “Central Michigan",
-      "teamB" : “Eastern Michigan"
+      "teamA" : "Central Michigan",
+      "teamB" : "Eastern Michigan"
     },
     {
       "mutual" : true,
-      "teamA" : “Central Michigan",
-      "teamB" : “Western Michigan"
+      "teamA" : "Central Michigan",
+      "teamB" : "Western Michigan"
     },
     {
       "mutual" : true,
-      "teamA" : “Eastern Michigan",
-      "teamB" : “Western Michigan"
+      "teamA" : "Eastern Michigan",
+      "teamB" : "Western Michigan"
     },
     {
       "mutual" : true,
-      "teamA" : “Eastern Michigan",
-      "teamB" : “Western Michigan"
+      "teamA" : "Eastern Michigan",
+      "teamB" : "Western Michigan"
     },
     {
       "mutual" : true,
-      "teamA" : “Miami (OH)",
-      "teamB" : “Ohio"
+      "teamA" : "Miami (OH)",
+      "teamB" : "Ohio"
     },
     {
       "mutual" : true,
-      "teamA" : “Northern Illinois",
-      "teamB" : “Toledo"
+      "teamA" : "Northern Illinois",
+      "teamB" : "Toledo"
     },
     {
       "mutual" : true,
-      "teamA" : “Air Force",
-      "teamB" : “Army"
+      "teamA" : "Air Force",
+      "teamB" : "Army"
     },
     {
       "mutual" : true,
-      "teamA" : “Air Force",
-      "teamB" : “Navy"
+      "teamA" : "Air Force",
+      "teamB" : "Navy"
     },
     {
       "mutual" : true,
-      "teamA" : “Air Force",
-      "teamB" : “Colorado State"
+      "teamA" : "Air Force",
+      "teamB" : "Colorado State"
     },
     {
       "mutual" : true,
-      "teamA" : “Air Force",
-      "teamB" : “Wyoming"
+      "teamA" : "Air Force",
+      "teamB" : "Wyoming"
     },
     {
       "mutual" : true,
-      "teamA" : “Boise State",
-      "teamB" : “BYU"
+      "teamA" : "Boise State",
+      "teamB" : "BYU"
     },
     {
       "mutual" : true,
-      "teamA" : “Boise State",
-      "teamB" : “Fresno State"
+      "teamA" : "Boise State",
+      "teamB" : "Fresno State"
     },
     {
       "mutual" : true,
-      "teamA" : “Boise State",
-      "teamB" : “Nevada"
+      "teamA" : "Boise State",
+      "teamB" : "Nevada"
     },
     {
       "mutual" : true,
-      "teamA" : “Boise State",
-      "teamB" : “Utah State"
+      "teamA" : "Boise State",
+      "teamB" : "Utah State"
     },
     {
       "mutual" : true,
-      "teamA" : “BYU",
-      "teamB" : “Utah"
+      "teamA" : "BYU",
+      "teamB" : "Utah"
     },
     {
       "mutual" : true,
-      "teamA" : “BYU",
-      "teamB" : “Utah State"
+      "teamA" : "BYU",
+      "teamB" : "Utah State"
     },
     {
       "mutual" : true,
-      "teamA" : “Colorado State",
-      "teamB" : “Wyoming"
+      "teamA" : "Colorado State",
+      "teamB" : "Wyoming"
     },
     {
       "mutual" : true,
-      "teamA" : “Fresno State",
-      "teamB" : “San Diego State"
+      "teamA" : "Fresno State",
+      "teamB" : "San Diego State"
     },
     {
       "mutual" : true,
-      "teamA" : “Fresno State",
-      "teamB" : “San Jose State"
+      "teamA" : "Fresno State",
+      "teamB" : "San Jose State"
     },
     {
       "mutual" : true,
-      "teamA" : “Fresno State",
-      "teamB" : “Hawaii"
+      "teamA" : "Fresno State",
+      "teamB" : "Hawaii"
     },
     {
       "mutual" : true,
-      "teamA" : “Nevada",
-      "teamB" : “UNLV"
+      "teamA" : "Nevada",
+      "teamB" : "UNLV"
     },
     {
       "mutual" : true,
-      "teamA" : “San Diego State",
-      "teamB" : “San Jose State"
+      "teamA" : "San Diego State",
+      "teamB" : "San Jose State"
     },
     {
       "mutual" : true,
-      "teamA" : “Utah",
-      "teamB" : “Utah State"
+      "teamA" : "Utah",
+      "teamB" : "Utah State"
     },
     {
       "mutual" : true,
-      "teamA" : “Arkansas State",
-      "teamB" : “Louisiana"
+      "teamA" : "Arkansas State",
+      "teamB" : "Louisiana"
     },
     {
       "mutual" : true,
-      "teamA" : “Arkansas State",
-      "teamB" : “Louisiana"
+      "teamA" : "Arkansas State",
+      "teamB" : "Louisiana"
     },
     {
       "mutual" : true,
-      "teamA" : “Coastal Carolina",
-      "teamB" : “Liberty"
+      "teamA" : "Coastal Carolina",
+      "teamB" : "Liberty"
     },
     {
       "mutual" : true,
-      "teamA" : “FAU",
-      "teamB" : “FIU"
+      "teamA" : "FAU",
+      "teamB" : "FIU"
     },
     {
       "mutual" : true,
-      "teamA" : “Georgia Southern",
-      "teamB" : “Georgia State"
+      "teamA" : "Georgia Southern",
+      "teamB" : "Georgia State"
     },
     {
       "mutual" : true,
-      "teamA" : “Middle Tennessee",
-      "teamB" : “Western Kentucky"
+      "teamA" : "Middle Tennessee",
+      "teamB" : "Western Kentucky"
     },
     {
       "mutual" : true,
-      "teamA" : “Troy",
-      "teamB" : “South Alabama"
+      "teamA" : "Troy",
+      "teamB" : "South Alabama"
     },
     {
       "mutual" : true,
-      "teamA" : “Troy",
-      "teamB" : “UAB"
+      "teamA" : "Troy",
+      "teamB" : "UAB"
     },
     {
       "mutual" : true,
-      "teamA" : “Louisiana",
-      "teamB" : “Louisiana Tech"
+      "teamA" : "Louisiana",
+      "teamB" : "Louisiana Tech"
     },
     {
       "mutual" : true,
-      "teamA" : “Louisiana",
-      "teamB" : “ULM"
+      "teamA" : "Louisiana",
+      "teamB" : "ULM"
     },
     {
       "mutual" : true,
-      "teamA" : “New Mexico",
-      "teamB" : “New Mexico State"
+      "teamA" : "New Mexico",
+      "teamB" : "New Mexico State"
     },
     {
       "mutual" : true,
-      "teamA" : “New Mexico",
-      "teamB" : “UTEP"
+      "teamA" : "New Mexico",
+      "teamB" : "UTEP"
     },
     {
       "mutual" : true,
-      "teamA" : “New Mexico State",
-      "teamB" : “UTEP"
+      "teamA" : "New Mexico State",
+      "teamB" : "UTEP"
     },
     {
       "mutual" : true,
-      "teamA" : “North Texas",
-      "teamB" : “UTSA"
+      "teamA" : "North Texas",
+      "teamB" : "UTSA"
     },
     {
       "mutual" : true,
-      "teamA" : “North Texas",
-      "teamB" : “Louisiana Tech"
+      "teamA" : "North Texas",
+      "teamB" : "Louisiana Tech"
     },
     {
       "mutual" : true,
-      "teamA" : “Texas State",
-      "teamB" : “UTSA"
+      "teamA" : "Texas State",
+      "teamB" : "UTSA"
     },
     {
       "mutual" : true,
-      "teamA" : “UTEP",
-      "teamB" : “UTSA"
+      "teamA" : "UTEP",
+      "teamB" : "UTSA"
     },
     {
       "mutual" : true,
-      "teamA" : “Navy",
-      "teamB" : “Notre Dame"
+      "teamA" : "Navy",
+      "teamB" : "Notre Dame"
     },
     {
       "mutual" : true,
@@ -3557,4 +3557,3 @@
     }
   ]
 }
-
